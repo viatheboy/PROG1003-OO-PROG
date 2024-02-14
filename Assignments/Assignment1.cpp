@@ -8,6 +8,8 @@
  * Programmet kan lese inn et gjøremål, skrive ut opplysninger om et gjøremål,
  * og slette gjøremålene etter bruk.
  * 
+ * 
+ * NB: Ikke komplett program, se PDF fil for fullstendig oppgave. 
  */
 #include <iostream>
 #include <string>
